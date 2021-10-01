@@ -1,3 +1,3 @@
 # Tile-Designer-App
-This project is built using JAVA.
+This project was built using only JAVA.
 Download the .zip file and extract it before running the program.
